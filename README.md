@@ -1,4 +1,4 @@
-# my_news_appv2
+# news_app
 
 A new Flutter project.
 
